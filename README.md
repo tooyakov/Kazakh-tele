@@ -1,0 +1,2 @@
+# Kazakh-tele
+kazakhtelecom
